@@ -8,7 +8,12 @@ It is just simulation, not a game..
 
 you can click planets to look them... and click sun to see the whole Solar System more clear.
 
-[] See each planet details with click in.
-[] Saturn ring
-[] Table of solar system planets
+---
+## TODO
+
+- [ ] See each planet details with click in.
+
+- [ ] Saturn ring
+
+- [ ] Table of solar system planets
 
