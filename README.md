@@ -6,4 +6,9 @@ It is just simulation, not a game..
 
 [See it here](https://bayany.github.io/Solar-System-Simulation/)
 
-you can click planets to look them... and click sun to return to fist state.
+you can click planets to look them... and click sun to see the whole Solar System more clear.
+
+[] See each planet details with click in.
+[] Saturn ring
+[] Table of solar system planets
+
