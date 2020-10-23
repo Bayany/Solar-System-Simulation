@@ -11,9 +11,14 @@ you can click planets to look them... and click sun to see the whole Solar Syste
 ---
 ## TODO
 
-- [ ] See each planet details with click in.
+- [ ] See each planet details when click in.
 
 - [ ] Saturn ring
 
 - [ ] Table of solar system planets
 
+- [ ] Make Speed Slower
+
+- [ ] Adjust Rotation
+
+- [ ] Decrease Build Size 
